@@ -1,0 +1,17 @@
+body {
+	background: #222;
+	margin: auto;
+	display: block;
+}
+
+img {
+	margin: auto;
+	display: block;
+	padding: 20px;
+}
+
+h2 {
+	color: #FFFFFF;
+	font-family: 'Actor', sans-serif;
+	text-align: center;
+}
